@@ -2,7 +2,7 @@
 
 I am a data scientist with 4 years of experience in data analytics within life sciences and healthcare. 
 - Masters of Science in Data Science from Drexel University
-- I recently successfully defended my Masters Thesis at Drexel University in June 2026
+- I successfully defended my Masters Thesis at Drexel University in June 2026
 
 ## Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
