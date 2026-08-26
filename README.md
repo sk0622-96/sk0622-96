@@ -1,6 +1,6 @@
 ## Hi there, my name is Shar 👋
 
-I am a data scientist with 4 years of experience in data analytics within life sciences and healthcare. 
+I am a Data Scientist with 4 years of experience in data analytics within life sciences, Manufacturing, and healthcare. 
 - Masters of Science in Data Science from Drexel University
 - I successfully defended my Masters Thesis at Drexel University in June 2026
 
